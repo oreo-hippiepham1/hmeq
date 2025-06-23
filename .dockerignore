@@ -1,0 +1,55 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.env
+.venv
+venv/
+.env.*
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+*.md
+
+# Frontend (if building backend only)
+frontend-hmeq/
+
+# Conda environment
+environment.yaml
+
+# Test files
+test_*
+*_test.py
+tests/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml

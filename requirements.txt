@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+
+pydantic_ai
+openai
+python-dotenv
+langgraph
+
+pandas
+numpy
+scikit-learn
+lime
