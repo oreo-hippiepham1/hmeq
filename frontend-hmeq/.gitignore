@@ -1,18 +1,4 @@
-.env
-*.pyc
-app/assets/
-
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-.Python
-*.env
-.venv
-venv/
-.env.*
-
-
+# Logs
 logs
 *.log
 npm-debug.log*
