@@ -366,8 +366,6 @@ curl -X POST "http://localhost:8000/agent/advice" \
 Required environment variables for production:
 ```bash
 OPENAI_API_KEY=your_openai_api_key
-LOG_LEVEL=INFO
-ENVIRONMENT=production
 ```
 
 ## 🔧 Development
@@ -385,18 +383,5 @@ ENVIRONMENT=production
 2. Update agent logic in `app/agent/lime_agent.py`
 3. Test with `/agent/advice` endpoint
 
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📞 Support
-
-[Add support contact information here]
-
----
 
 **Note**: This system is designed for educational and research purposes. Ensure proper validation and testing before using in production financial applications.
